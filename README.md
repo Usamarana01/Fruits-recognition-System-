@@ -18,11 +18,7 @@ FruitRecog is a machine learning-based system designed to recognize various type
 
 ## Getting Started
 
-To get started with FruitRecog, follow the instructions in the [Documentation](docs/README.md).
-
-## Contributing
-
-Contributions are welcome! Whether you're a machine learning enthusiast, web developer, or documentation expert, you can contribute to FruitRecog by improving the models, enhancing the user interface, or updating the documentation. Please see our [Contribution Guidelines](CONTRIBUTING.md) for more information.
+To get started with FruitRecog, follow the instructions.
 
 ## License
 

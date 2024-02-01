@@ -1,7 +1,7 @@
 # FruitRecog: Fruits Recognition System
 
 FruitRecog is a machine learning-based system designed to recognize various types of fruits from images. Leveraging the K-Nearest Neighbors (KNN) algorithm, it offers a lightweight yet effective solution for fruit classification tasks.
-
+ - KNN: No preprocessing, precission of 88.33% and with Preprocessing 89.39%
 ## Key Features
 
 - **Fruit Classification**: Utilizes the KNN algorithm to classify fruits based on their features extracted from input images.
@@ -11,6 +11,7 @@ FruitRecog is a machine learning-based system designed to recognize various type
 
 ## Dataset
 download dataset from the kaggle (fruits 360 )
+Train and test images splited  77%, 33% of Apples, Mangoes and Oranges
 ## Usage
 
 1. **Installation**: Clone the repository and install the required dependencies.

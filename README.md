@@ -9,6 +9,8 @@ FruitRecog is a machine learning-based system designed to recognize various type
 - **Customizable**: Allows for customization of the KNN model parameters to adapt to different datasets or requirements.
 - **Performance Metrics**: Includes evaluation metrics to assess the accuracy and performance of the classification system.
 
+## Dataset
+download dataset from the kaggle (fruits 360 )
 ## Usage
 
 1. **Installation**: Clone the repository and install the required dependencies.
